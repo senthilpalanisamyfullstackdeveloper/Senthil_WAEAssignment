@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senthil.WAE.Assignment", "Senthil.WAE.Assignment\Senthil.WAE.Assignment.csproj", "{7BEC4BE4-1545-444F-ABF9-0D77D2011728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senthil.WAE.Assignment.Tests", "Senthil.WAE.Assignment.Tests\Senthil.WAE.Assignment.Tests.csproj", "{AA0EEB3E-28B8-4FE1-B075-BBCC295BF87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BEC4BE4-1545-444F-ABF9-0D77D2011728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEC4BE4-1545-444F-ABF9-0D77D2011728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEC4BE4-1545-444F-ABF9-0D77D2011728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEC4BE4-1545-444F-ABF9-0D77D2011728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0EEB3E-28B8-4FE1-B075-BBCC295BF87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0EEB3E-28B8-4FE1-B075-BBCC295BF87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0EEB3E-28B8-4FE1-B075-BBCC295BF87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0EEB3E-28B8-4FE1-B075-BBCC295BF87A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A942F8-5824-431B-8187-11520CAD07FB}
+	EndGlobalSection
+EndGlobal
